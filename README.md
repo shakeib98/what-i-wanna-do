@@ -154,14 +154,13 @@
 - P v NP: https://youtu.be/dJUEkjxylBw 
 - https://en.wikipedia.org/wiki/NP-completeness 
 - Stark v Snark v Bulletproofs
-- https://ethereum.stackexchange.com/questions/59145/zk-snarks-vs-zk-starks-vs-bulletproofs-updated/63778#63778 
+  - https://ethereum.stackexchange.com/questions/59145/zk-snarks-vs-zk-starks-vs-bulletproofs-updated/63778#63778 
 - Interactive proofs
-- https://en.wikipedia.org/wiki/Interactive_proof_system 
+  - https://en.wikipedia.org/wiki/Interactive_proof_system 
 - Commitment scheme
-- https://en.wikipedia.org/wiki/Commitment_scheme 
+  - https://en.wikipedia.org/wiki/Commitment_scheme 
 - Probabilistic Turing complete machine
-- https://en.wikipedia.org/wiki/Probabilistic_Turing_machine 
-- Non deterministic
+  - https://en.wikipedia.org/wiki/Probabilistic_Turing_machine 
 - https://www.math.ias.edu/avi/book 
 
 ## Types of ZKP
