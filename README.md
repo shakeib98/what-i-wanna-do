@@ -55,7 +55,8 @@
 
 ## ZKEVM
 - https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686
-- https://ethresear.ch/t/a-zk-evm-specification/11549 
+- https://ethresear.ch/t/a-zk-evm-specification/11549
+- https://www.evm.codes/
 
 ## RUST
 - https://ferrous-systems.github.io/teaching-material/index.html
