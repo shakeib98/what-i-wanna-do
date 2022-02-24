@@ -178,7 +178,7 @@
 - Marlin
 - Plonk
 
-## What I am following:
+## Sensible Roadmap:
 - https://www.leewayhertz.com/zero-knowledge-proof-and-blockchain/ 
 - https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff 
 - https://www.youtube.com/watch?v=5ovdoxnfFVc
