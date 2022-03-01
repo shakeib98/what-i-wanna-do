@@ -71,6 +71,8 @@
 
 ## Cryptoeconomics
 - https://github.com/jpantunes/awesome-cryptoeconomics#state-channels
+- https://www.youtube.com/channel/UCGagQMCWglF-oGt8HKZfHNg/videos
+- https://drive.google.com/file/d/1BbNrlukICQt3XuVqgKTRddPbNEZ1jYOO/view
 
 ## Crypto
 - https://asecuritysite.com/ 
