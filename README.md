@@ -93,6 +93,7 @@
 - https://challenges.ethereum.org/ 
 
 ## ETH 2.0 working and structure
+- https://github.com/ethereum/consensus-specs
 - https://notes.ethereum.org/jDcuUp3-T8CeFTv0YpAsHw?view 
 - https://notes.ethereum.org/@serenity/handbook 
 - https://medium.com/mycrypto/the-ethereum-virtual-machine-how-does-it-work-9abac2b7c9e 
