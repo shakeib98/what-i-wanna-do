@@ -127,6 +127,7 @@
 
 ## MEVs
 - https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o 
+- https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177
 
 ## All ZK Projects and working of them
 - ZCash - Snarks
